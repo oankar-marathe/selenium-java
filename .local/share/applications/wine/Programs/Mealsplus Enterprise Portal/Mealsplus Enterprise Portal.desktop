@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Mealsplus Enterprise Portal
+Exec=env WINEPREFIX="/home/synerzip/.wine" wine C:\\\\windows\\\\command\\\\start.exe /Unix /home/synerzip/.wine/dosdevices/c:/users/synerzip/Start\\ Menu/Programs/Mealsplus\\ Enterprise\\ Portal/Mealsplus\\ Enterprise\\ Portal.lnk
+Type=Application
+StartupNotify=true
+Path=/home/synerzip/.wine/dosdevices/c:/Program Files (x86)/
+Icon=8BE9_MealsplusEnterprisePortal.0
+StartupWMClass=mealsplus enterprise portal.exe

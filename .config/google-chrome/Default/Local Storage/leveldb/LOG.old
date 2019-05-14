@@ -1,0 +1,6 @@
+2019/05/13-11:22:28.807 83a Reusing MANIFEST leveldb/MANIFEST-000001
+2019/05/13-11:22:28.810 83a Recovering log #2141
+2019/05/13-11:22:29.189 83a Reusing old log leveldb/002141.log 
+2019/05/13-11:30:38.250 83e Level-0 table #2145: started
+2019/05/13-11:30:38.322 83e Level-0 table #2145: 14674 bytes OK
+2019/05/13-11:30:38.381 83e Delete type=0 #2141

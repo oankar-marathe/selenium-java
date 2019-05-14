@@ -1,0 +1,14 @@
+2019/05/13-11:21:46.237 1814 Reusing MANIFEST /home/synerzip/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2019/05/13-11:21:46.237 1814 Recovering log #141
+2019/05/13-11:21:46.297 1814 Reusing old log /home/synerzip/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000141.log 
+2019/05/13-12:21:55.193 5938 Level-0 table #147: started
+2019/05/13-12:21:55.336 5938 Level-0 table #147: 1579562 bytes OK
+2019/05/13-12:21:55.378 5938 Delete type=0 #141
+2019/05/13-12:48:52.433 5938 Compacting 1@1 + 2@2 files
+2019/05/13-12:48:52.785 5938 Generated table #148@1: 19719 keys, 2192743 bytes
+2019/05/13-12:48:52.834 5938 Generated table #149@1: 695 keys, 53419 bytes
+2019/05/13-12:48:52.834 5938 Compacted 1@1 + 2@2 files => 2246162 bytes
+2019/05/13-12:48:52.875 5938 compacted to: files[ 0 0 2 0 0 0 0 ]
+2019/05/13-12:48:52.875 5938 Delete type=2 #144
+2019/05/13-12:48:52.876 5938 Delete type=2 #147
+2019/05/13-12:48:52.877 5938 Delete type=2 #143

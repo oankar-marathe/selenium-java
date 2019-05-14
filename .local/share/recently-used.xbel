@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/synerzip/Documents/eclipse/icon.xpm" added="2019-03-14T07:33:55Z" modified="2019-03-14T07:33:55Z" visited="2019-03-14T07:33:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/x-xpixmap"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-03-14T07:33:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium/selenium-java-2.48.2.jar" added="2019-03-14T07:54:34Z" modified="2019-03-14T07:54:55Z" visited="2019-03-14T07:54:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-14T07:54:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/byte-buddy-1.8.15.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/client-combined-3.141.59.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/client-combined-3.141.59-sources.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/guava-25.0-jre.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/commons-exec-1.3.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/okio-1.14.0.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-java-3.141.59/okhttp-3.11.0.jar" added="2019-03-14T07:55:47Z" modified="2019-04-25T09:04:21Z" visited="2019-03-14T07:55:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-25T09:04:21Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/selenium-python-master/data_driven_framework/json_data_driven_selenium_test.py" added="2019-03-15T11:36:47Z" modified="2019-03-15T11:36:47Z" visited="2019-03-15T11:36:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-03-15T11:36:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/selenium-python-master/data_driven_framework/data_driven_selenium_test.py" added="2019-03-15T11:37:38Z" modified="2019-03-15T11:37:38Z" visited="2019-03-15T11:37:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-03-15T11:37:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium/selenium_practice.py" added="2019-03-15T12:39:04Z" modified="2019-04-22T05:48:30Z" visited="2019-03-15T12:39:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-03-15T12:39:04Z" count="1"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-03-18T09:15:49Z" count="2"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-22T05:48:30Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/OankarMarathe(CV).docx" added="2019-03-18T06:31:34Z" modified="2019-05-13T06:13:38Z" visited="2019-03-18T06:31:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-05-13T06:13:38Z" count="463"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-03-18T11:58:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Oankar_Marathe%20Resume.pdf" added="2019-03-18T11:20:28Z" modified="2019-03-26T05:11:45Z" visited="2019-03-18T11:20:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-03-26T05:11:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ProjectRC.rar" added="2019-03-20T06:26:44Z" modified="2019-03-20T06:26:44Z" visited="2019-03-20T06:26:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-03-20T06:26:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ProjectRC/WebDriver/src/com/openqa/selenium/ChromeDriver.java" added="2019-03-20T06:28:33Z" modified="2019-03-20T06:40:11Z" visited="2019-03-20T06:28:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T06:40:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ProjectRC/WebDriver/src/com/openqa/selenium/InternetExplorerDriver.java" added="2019-03-20T06:28:33Z" modified="2019-03-20T06:40:11Z" visited="2019-03-20T06:28:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T06:40:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ProjectRC/WebDriver/src/com/openqa/selenium/FirefoxDriver.java" added="2019-03-20T06:28:33Z" modified="2019-03-20T06:40:11Z" visited="2019-03-20T06:28:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T06:40:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ProjectRC/WebDriver/src/com/openqa/selenium/WebDriver.java" added="2019-03-20T06:28:33Z" modified="2019-03-20T06:40:11Z" visited="2019-03-20T06:28:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T06:40:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ProjectRC/testMyWebDriverProject/src/testSample.java" added="2019-03-20T06:29:55Z" modified="2019-03-20T06:29:55Z" visited="2019-03-20T06:29:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T06:29:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/selenium-test/src/selenium/TecAdminSeleniumTest.java" added="2019-03-20T10:29:06Z" modified="2019-03-20T10:29:06Z" visited="2019-03-20T10:29:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T10:29:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/selenium-test/src/selenium/NewSeleniumJavaClass.java" added="2019-03-20T10:31:18Z" modified="2019-04-02T12:45:09Z" visited="2019-03-20T10:31:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T10:31:18Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-02T12:45:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/Gmail_Login.java" added="2019-03-20T10:31:41Z" modified="2019-03-27T06:30:56Z" visited="2019-03-20T10:31:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-03-20T10:31:41Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-03-27T06:30:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Codes/selenium-python-framework/data_driven_framework/data_driven_gmail_login.py" added="2019-03-26T10:54:11Z" modified="2019-03-27T05:03:52Z" visited="2019-03-26T10:54:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-03-27T05:03:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Codes/selenium-python-framework/data_driven_framework/GmailData.xls" added="2019-03-26T11:04:54Z" modified="2019-03-26T13:15:31Z" visited="2019-03-26T11:04:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-03-26T13:15:31Z" count="71"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Codes/selenium-python-framework/data_driven_framework/DataFile.xls" added="2019-03-26T11:05:43Z" modified="2019-03-26T11:05:53Z" visited="2019-03-26T11:05:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-03-26T11:05:53Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Codes/selenium-python-framework/data_driven_framework/data_driven_selenium_test.py" added="2019-03-27T05:03:57Z" modified="2019-03-27T05:03:57Z" visited="2019-03-27T05:03:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-03-27T05:03:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/FirstWebDriverClass.java" added="2019-03-27T06:35:02Z" modified="2019-04-02T12:44:38Z" visited="2019-03-27T06:35:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-03-27T06:35:02Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-02T12:44:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Oankar%20Marathe%20adhar%20card.pdf" added="2019-03-28T09:15:00Z" modified="2019-03-28T09:18:08Z" visited="2019-03-28T09:15:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-03-28T09:15:00Z" count="1"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-03-28T09:18:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/selenium-java-practice/src/SearchAndAddUser.java" added="2019-04-01T08:16:38Z" modified="2019-04-01T08:16:38Z" visited="2019-04-01T08:16:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-04-01T08:16:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Java_session1_assignments" added="2019-04-02T09:46:01Z" modified="2019-04-02T09:46:01Z" visited="2019-04-02T09:46:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-02T09:46:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Java_session1_assignments.odt" added="2019-04-02T09:46:02Z" modified="2019-04-05T10:30:50Z" visited="2019-04-02T09:46:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-05T10:30:50Z" count="52"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-03T10:01:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/LearningMethods.java" added="2019-04-02T12:44:15Z" modified="2019-04-02T12:44:15Z" visited="2019-04-02T12:44:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-02T12:44:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/calculator.java" added="2019-04-02T12:44:25Z" modified="2019-04-02T12:44:25Z" visited="2019-04-02T12:44:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-02T12:44:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/selenium-test/src/selenium/test.java" added="2019-04-02T12:45:02Z" modified="2019-04-02T12:45:02Z" visited="2019-04-02T12:45:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-02T12:45:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/testng_practice/src/TestNG/DemoTestNG.java" added="2019-04-02T12:45:29Z" modified="2019-04-02T12:45:29Z" visited="2019-04-02T12:45:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-02T12:45:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/python-training/Python-master/session-1/for_loops.py" added="2019-04-03T09:44:36Z" modified="2019-04-03T09:44:36Z" visited="2019-04-03T09:44:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-03T09:44:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/python-training/Python-master/session-3/oop.py" added="2019-04-03T09:45:12Z" modified="2019-04-03T09:45:12Z" visited="2019-04-03T09:45:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-03T09:45:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/python-training/Python-master/session-6/collect_mobile_nos.py" added="2019-04-03T09:45:32Z" modified="2019-04-03T09:45:32Z" visited="2019-04-03T09:45:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-03T09:45:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/python_practice.py" added="2019-04-03T09:46:07Z" modified="2019-04-24T05:23:31Z" visited="2019-04-03T09:46:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-24T05:23:31Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-04-23T08:58:05Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-23T08:58:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%201.odt" added="2019-04-04T08:19:13Z" modified="2019-04-05T10:33:19Z" visited="2019-04-04T08:19:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-04T10:34:39Z" count="103"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-04-04T10:40:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Python%20Training%20Session%201" added="2019-04-04T10:34:34Z" modified="2019-04-04T10:34:34Z" visited="2019-04-04T10:34:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-04T10:34:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%201.docx" added="2019-04-04T10:34:39Z" modified="2019-05-10T05:41:40Z" visited="2019-04-04T10:34:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-05T10:30:02Z" count="16"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-10T05:41:40Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/python_session_1.py" added="2019-04-04T13:23:54Z" modified="2019-04-04T13:24:01Z" visited="2019-04-04T13:23:54Z">
+    <title>python_session_1.py</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text file:///home/synerzip/Documents/Python_sessions/python_basics.py&apos;" modified="2019-04-04T13:23:54Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-04-04T13:24:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/python_session_2.py" added="2019-04-05T08:58:59Z" modified="2019-04-05T08:58:59Z" visited="2019-04-05T08:58:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-05T08:58:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions" added="2019-04-05T10:30:37Z" modified="2019-04-26T12:55:14Z" visited="2019-04-05T10:30:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2019-04-26T12:55:14Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%202.odt" added="2019-04-05T10:33:26Z" modified="2019-04-10T13:14:17Z" visited="2019-04-05T10:33:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-10T13:14:17Z" count="57"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-04-05T10:38:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%202" added="2019-04-05T10:37:04Z" modified="2019-04-05T10:37:04Z" visited="2019-04-05T10:37:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-05T10:37:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%202.docx" added="2019-04-05T10:37:07Z" modified="2019-05-10T05:41:40Z" visited="2019-04-05T10:37:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-08T07:36:27Z" count="29"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-10T05:41:40Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/java_sessions/Java_session1_assignments.odt" added="2019-04-05T11:09:31Z" modified="2019-04-05T13:18:28Z" visited="2019-04-05T11:09:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-05T13:18:28Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/JavaBasics/src/assignments/Session1.java" added="2019-04-05T11:20:45Z" modified="2019-05-07T12:30:54Z" visited="2019-04-05T11:20:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-07T12:30:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Python%2520Training%2520Session%25202.odt" added="2019-04-08T07:34:09Z" modified="2019-04-08T07:34:11Z" visited="2019-04-08T07:34:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-08T07:34:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/java_sessions/Java_session2_assignments.odt" added="2019-04-09T08:45:31Z" modified="2019-04-09T13:04:03Z" visited="2019-04-09T08:45:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-09T13:04:03Z" count="37"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Python%20Training%20Session%202.odt" added="2019-04-09T11:03:25Z" modified="2019-04-09T11:03:38Z" visited="2019-04-09T11:03:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-09T11:03:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/python_session_3.py" added="2019-04-10T08:52:50Z" modified="2019-04-10T08:52:50Z" visited="2019-04-10T08:52:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-10T08:52:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%203.docx" added="2019-04-10T09:22:47Z" modified="2019-05-10T05:41:40Z" visited="2019-04-10T09:22:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-10T05:41:40Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Method1.java" added="2019-04-11T06:23:51Z" modified="2019-04-11T06:23:51Z" visited="2019-04-11T06:23:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-11T06:23:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Method2.java" added="2019-04-11T06:24:09Z" modified="2019-04-11T09:46:27Z" visited="2019-04-11T06:24:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-11T09:46:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/python_assignment_points" added="2019-04-11T10:17:20Z" modified="2019-04-11T10:17:20Z" visited="2019-04-11T10:17:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-11T10:17:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/python_assignment_points.ods" added="2019-04-11T10:17:21Z" modified="2019-05-13T06:33:00Z" visited="2019-04-11T10:17:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-05-13T06:30:27Z" count="128"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-05-13T06:33:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/JavaBasics/src/assignments/Session2.java" added="2019-04-11T11:29:23Z" modified="2019-05-07T12:30:54Z" visited="2019-04-11T11:29:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-07T12:30:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Assignment2n3.py" added="2019-04-15T05:53:38Z" modified="2019-04-15T05:53:38Z" visited="2019-04-15T05:53:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-04-15T05:53:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Assignment4.py" added="2019-04-15T05:55:01Z" modified="2019-04-24T11:55:29Z" visited="2019-04-15T05:55:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-24T11:55:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/JAVA-pdf-lectures/JAVA%20pdf%20lectures/Lecture1.pdf" added="2019-04-15T10:27:34Z" modified="2019-04-15T10:27:34Z" visited="2019-04-15T10:27:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-04-15T10:27:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/Assignment2_3.py" added="2019-04-16T04:59:45Z" modified="2019-04-16T06:40:44Z" visited="2019-04-16T04:59:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-04-16T04:59:45Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-04-16T06:40:44Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/java_sessions/Java_session3_assignments.odt" added="2019-04-16T08:26:00Z" modified="2019-04-16T12:57:21Z" visited="2019-04-16T08:26:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-16T12:57:21Z" count="40"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/pageobjects/homescreen.py" added="2019-04-17T07:37:36Z" modified="2019-04-25T11:02:59Z" visited="2019-04-17T07:37:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2019-04-17T07:37:36Z" count="1"/>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-25T11:02:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/pageobjects/dashboard_test.py" added="2019-04-17T07:38:18Z" modified="2019-04-17T07:38:18Z" visited="2019-04-17T07:38:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-17T07:38:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium/selenium_python_sample_code.py" added="2019-04-22T05:49:16Z" modified="2019-04-24T05:23:53Z" visited="2019-04-22T05:49:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-24T05:23:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/selenium-java-practice/src/mouseoVER.java" added="2019-04-22T10:17:43Z" modified="2019-04-22T10:17:43Z" visited="2019-04-22T10:17:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-04-22T10:17:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%204.docx" added="2019-04-22T10:31:20Z" modified="2019-05-10T05:41:40Z" visited="2019-04-22T10:31:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-22T10:32:47Z" count="45"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-10T05:41:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%204.odt" added="2019-04-22T10:33:53Z" modified="2019-04-22T10:34:45Z" visited="2019-04-22T10:33:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-04-22T10:34:20Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium/test_selenium.py" added="2019-04-24T09:59:13Z" modified="2019-04-24T09:59:13Z" visited="2019-04-24T09:59:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-24T09:59:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/testcases/test_dashboard.py" added="2019-04-25T11:02:22Z" modified="2019-04-25T11:02:22Z" visited="2019-04-25T11:02:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-25T11:02:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/selenium-python/selenium-python-master/data_driven_framework/data_driven_selenium_test.py" added="2019-04-25T11:02:35Z" modified="2019-04-25T11:02:35Z" visited="2019-04-25T11:02:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-25T11:02:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/ITDeclaration.pdf" added="2019-04-26T05:44:50Z" modified="2019-04-26T05:46:56Z" visited="2019-04-26T05:44:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-04-26T05:46:56Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-04-26T05:45:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/RPTID1105.pdf" added="2019-04-26T05:44:58Z" modified="2019-04-26T05:46:56Z" visited="2019-04-26T05:44:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-04-26T05:44:58Z" count="1"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-04-26T05:46:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/selenium_python_practice.py" added="2019-04-26T08:54:42Z" modified="2019-04-26T08:54:42Z" visited="2019-04-26T08:54:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-04-26T08:54:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/JavaBasics/src/assignments/areaCalculate.java" added="2019-04-26T11:49:08Z" modified="2019-05-07T12:30:54Z" visited="2019-04-26T11:49:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-07T12:30:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/JavaBasics/src/assignments/areaDisplay.java" added="2019-04-26T11:49:08Z" modified="2019-05-07T12:30:54Z" visited="2019-04-26T11:49:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-07T12:30:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/JavaBasics/src/assignments/session4.java" added="2019-04-26T11:49:08Z" modified="2019-05-07T12:30:54Z" visited="2019-04-26T11:49:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-07T12:30:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/Python%20Training%20Session%205.docx" added="2019-04-26T12:55:57Z" modified="2019-05-10T05:41:40Z" visited="2019-04-26T12:55:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-10T05:41:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/eclipse-workspace/JavaBasics/src/assignments/Session3.java" added="2019-05-07T12:30:54Z" modified="2019-05-07T12:30:54Z" visited="2019-05-07T12:30:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-07T12:30:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/orangehrmtest.py" added="2019-05-10T08:47:47Z" modified="2019-05-13T06:24:32Z" visited="2019-05-10T08:47:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2019-05-10T08:47:47Z" count="1"/>
+          <bookmark:application name="skypeforlinux" exec="&apos;skypeforlinux %u&apos;" modified="2019-05-13T06:24:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Documents/Python_sessions/python_session_feedback.ods" added="2019-05-10T09:47:10Z" modified="2019-05-13T06:33:57Z" visited="2019-05-10T09:47:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-05-13T06:33:43Z" count="104"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-05-13T06:33:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/OankarMarathe(CV)" added="2019-05-13T06:09:20Z" modified="2019-05-13T06:10:38Z" visited="2019-05-13T06:09:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-05-13T06:10:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/OankarMarathe(CV).pdf" added="2019-05-13T06:09:32Z" modified="2019-05-13T06:11:13Z" visited="2019-05-13T06:09:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-05-13T06:10:42Z" count="2"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-05-13T06:11:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/synerzip/Downloads/MealsPlus_64bit_BootStrapperWIX.exe" added="2019-05-13T09:48:42Z" modified="2019-05-13T09:48:42Z" visited="2019-05-13T09:48:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-05-13T09:48:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

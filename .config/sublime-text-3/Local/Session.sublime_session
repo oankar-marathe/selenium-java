@@ -1,0 +1,705 @@
+{
+	"folder_history":
+	[
+		"/home/synerzip/Codes/selenium-python-framework/data_driven_framework",
+		"/home/synerzip/Documents/selenium"
+	],
+	"last_version": 3207,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"finmd",
+						"find_element_by_link_text"
+					],
+					[
+						"find",
+						"find_element_by_xpath"
+					],
+					[
+						"sele",
+						"selenium_test"
+					],
+					[
+						"T",
+						"TestUbuntuHomepage"
+					],
+					[
+						"obj",
+						"obj2"
+					],
+					[
+						"this",
+						"thislist"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/synerzip/Downloads/Assignment2_3.py",
+				"/etc/environment",
+				"/home/synerzip/Documents/,",
+				"/home/synerzip/.bashrc",
+				"/home/synerzip/Documents/python_practice.py",
+				"/home/synerzip/Documents/selenium/test_selenium.py",
+				"/home/synerzip/Documents/selenium/selenium_python_sample_code.py",
+				"/home/synerzip/Documents/selenium/selenium_practice.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/pageobjects/homescreen.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/data_driven_framework/data_driven_selenium_test.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/testcases/test_dashboard.py",
+				"/home/synerzip/Downloads/Assignment4.py",
+				"/home/synerzip/Documents/Python_sessions/python_session_1.py",
+				"/home/synerzip/Documents/Python_sessions/python_session_2.py",
+				"/home/synerzip/Documents/Python_sessions/python_session_3.py",
+				"/home/synerzip/Downloads/Assignment2n3.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/pageobjects/dashboard_test.py",
+				"/home/synerzip/Codes/selenium-python-framework/data_driven_framework/data_driven_gmail_login.py",
+				"/home/synerzip/Codes/selenium-python-framework/data_driven_framework/data_driven_selenium_test.py",
+				"/home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/Gmail_Login.java",
+				"/home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/FirstWebDriverClass.java",
+				"/home/synerzip/Documents/python-training/Python-master/session-6/collect_mobile_nos.py",
+				"/home/synerzip/Documents/python_basics.py",
+				"/home/synerzip/Documents/python-training/Python-master/session-3/oop.py",
+				"/home/synerzip/Documents/python-training/Python-master/session-1/for_loops.py",
+				"/home/synerzip/Downloads/selenium-python-master/data_driven_framework/json_data_driven_selenium_test.py",
+				"/home/synerzip/Documents/selenium/selenium-java-2.48.2.jar"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 265.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"environment",
+					"JAVA",
+					"java",
+					"<",
+					"list"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 45.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"finmd",
+						"find_element_by_link_text"
+					],
+					[
+						"find",
+						"find_element_by_xpath"
+					],
+					[
+						"sele",
+						"selenium_test"
+					],
+					[
+						"T",
+						"TestUbuntuHomepage"
+					],
+					[
+						"obj",
+						"obj2"
+					],
+					[
+						"this",
+						"thislist"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/synerzip/Documents/Python_sessions/selenium_practice.py",
+					"settings":
+					{
+						"buffer_size": 580,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/synerzip/Documents/Python_sessions/orangehrmtest.py",
+					"settings":
+					{
+						"buffer_size": 775,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/synerzip/Documents/Python_sessions/test_selenium.py",
+					"settings":
+					{
+						"buffer_size": 1897,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "// Item Maintenance > Go to page no 20 > Go to item detail page > Click back button\n// When I click on back button I am redirected directly to 1st page of item maintenence page\n\n// Manage/Process Orders > View Order > Preview Order item > Cancel button\n// When I click on cancel button I am redirected directly to manage/process orders page\n\n// Item Maintenance > View/Edit Item > Edit item details > Click Save button > Click Back button\n// After clicking back button I get pop up \"Un-saved changes detected\". This pop up is shown even after saving the changes.\n\n// Item Maintenence > View/Edit Item > Edit TAX Group > Click on Back button > Visit some other page > Again go to Item Maintenence > View/Edit // Item for same previous item\n// When I visit the detail page of same item second time TAX Group field is blank. Even when I expand the dropdown it is blank. I have to visit // some other tab & come back to detail tab to view the data\n\n// I cannot place new order from web app. Every time after saving order I get error message \"Error: Date selected for this Transaction has      // already been closed by Transaction Summary\"\n\n// Create a new user > Login with new user > Go to Inventory > Manage/Process Orders > Create New Order\n// On this page SITE dropdown is shown blank even if site values are present\n\n// Go to Inventary > Transaction > Transaction summary page > Go to some other page\n// when I go to some other page from transaction summary page I get pop up un-saved changes detected without doing any changes\n\n// Item Maintenence > View/Edit Item > Update any detail > Click on Save button > Click on Save button\n// After clicking on save button I get pop up \"un-saved changes detected\"\n\n\n\n\nOn login screen if I enter wrong username or password I get two error messages \"Invalid username or password\" & \"You do not have proper permissions to access this resource\"\n\nGo to Utilities > Assign Entities > Select any site > Assign items to that site from 4th or 5th page > Save > Change site\nWhen I change site items from 4th or 5th page are displayed in list instead of 1st page. When site is changed item list should reset to 1st page\n\n",
+					"settings":
+					{
+						"buffer_size": 2154,
+						"line_ending": "Unix",
+						"name": "// Item Maintenance > Go to page no 20 > Go to ite"
+					}
+				},
+				{
+					"file": "/home/synerzip/Documents/Python_sessions/selenium_python_practice.py",
+					"settings":
+					{
+						"buffer_size": 545,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "from selenium import webdriver"
+					}
+				},
+				{
+					"contents": "Session 5 Assignment\n\nmercury tour register\ncountry list > expected & actual > compare\n\n\nSession 1 Assignment\n\n1. subtraction,Division,Multiplication of two numbers\n2. Area of circle, triangle, square\n3. Lottery program\n4. Loops: Switch case,while  do while\n5. Data types\n6. Naming conventions in Java\n7. Get familiarise with Eclipse panel\n\nSession 2 Assignment\n\n1. Theory: What is significance of “new” keyword??\n2. Addition, sub, div, multiplication using methods\n3. Print avg of array\n4. print smallest and largest integers from array when duplicate number exist in an array.\n5. Print Factorial of a number. Write method: input is Integer and method returns factorial of that number\n\nSession 3 Assignment \n\n1. Print if number is Armstrong number\n2. Print if number is Palindrome\n3. print if string is Palindrome\n\nSesion 4 Assignment\n\n1. Accept 2 strings as user input “Hello” and “World” through scanner class. Print “Hello World”\n2. Create one class “area calculate” with 3 methods- Area of Circle, Area of Triangle and Area of rectangle. Call these 3 methods from another class- “areadisplay“ to print answers. Pass arguments (like radius, length, width etc from this class.\n\n",
+					"settings":
+					{
+						"buffer_size": 1181,
+						"line_ending": "Unix",
+						"name": "Session 5 Assignment"
+					}
+				},
+				{
+					"contents": "Python assignments\n\nAssignment 1\n1. Create a string \"Welcome_to python\"\n2. Remove special character from the string\n3. Find length of string\n4. Create list of characters from a to h\n5. Find 4th element in th list\n6. Add character 'm' at the end of the list\n\nAssignment 2\n1. Create dictionary with keys A,B,C,D & values 1,2,3,4 > print all values > Change value of key C to 5\n2. Create a set of 3 color names > Add 2 more colors to a set\n\n\nAssignment 3\n1. Create a list of names of all python training members by iterating the list check if your name is present in list or not. If your name is present then print message \"Yes my name is there in list\" else print \"My name is not present in the list\"\n2. Create a function which accepts two integers & returns their addition, subtraction, multiplication & division (print statement should be used while calling the function)\n\nAssignment 4\nSelenium script:\nUsing chrome driver go to \"google.com\" > search for term \"python\" > Click on first link in search results > print page title for the opened page\n\nAssignment 5\n\n1. Go to orange hrm demo site > login with admin credentials > Visit each link in nav bar & print title of each page\n2. Go to Directory page > Search for your name > Assert \"No records found\" message\n3. Go to PIM secion > Add Employee > Add employee of your name > Assert \"Personal Details\" title on result page\n4. Again go to Directory page > Search for newly created employee > Assert employee name",
+					"settings":
+					{
+						"buffer_size": 1463,
+						"line_ending": "Unix",
+						"name": "Python assignments"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/synerzip/Documents/Python_sessions/orangehrmtest.py",
+				"/home/synerzip/Downloads/Assignment2_3.py",
+				"/etc/environment",
+				"/home/synerzip/Documents/,",
+				"/home/synerzip/.bashrc",
+				"/home/synerzip/Documents/python_practice.py",
+				"/home/synerzip/Documents/selenium/test_selenium.py",
+				"/home/synerzip/Documents/selenium/selenium_python_sample_code.py",
+				"/home/synerzip/Documents/selenium/selenium_practice.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/pageobjects/homescreen.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/data_driven_framework/data_driven_selenium_test.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/testcases/test_dashboard.py",
+				"/home/synerzip/Downloads/Assignment4.py",
+				"/home/synerzip/Documents/Python_sessions/python_session_1.py",
+				"/home/synerzip/Documents/Python_sessions/python_session_2.py",
+				"/home/synerzip/Documents/Python_sessions/python_session_3.py",
+				"/home/synerzip/Downloads/Assignment2n3.py",
+				"/home/synerzip/Documents/selenium-python/selenium-python-master/page_object_framework/pageobjects/dashboard_test.py",
+				"/home/synerzip/Codes/selenium-python-framework/data_driven_framework/data_driven_gmail_login.py",
+				"/home/synerzip/Codes/selenium-python-framework/data_driven_framework/data_driven_selenium_test.py",
+				"/home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/Gmail_Login.java",
+				"/home/synerzip/eclipse-workspace/learning_selenium/src/learning_selenium/FirstWebDriverClass.java",
+				"/home/synerzip/Documents/python-training/Python-master/session-6/collect_mobile_nos.py",
+				"/home/synerzip/Documents/python_basics.py",
+				"/home/synerzip/Documents/python-training/Python-master/session-3/oop.py",
+				"/home/synerzip/Documents/python-training/Python-master/session-1/for_loops.py",
+				"/home/synerzip/Downloads/selenium-python-master/data_driven_framework/json_data_driven_selenium_test.py",
+				"/home/synerzip/Documents/selenium/selenium-java-2.48.2.jar"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 265.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"self.",
+					"environment",
+					"JAVA",
+					"java",
+					"<",
+					"list"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/synerzip/Documents/Python_sessions/selenium_practice.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 580,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										580,
+										580
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/synerzip/Documents/Python_sessions/orangehrmtest.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 775,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										636,
+										636
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/synerzip/Documents/Python_sessions/test_selenium.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1897,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1135,
+										1135
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2154,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2152,
+										2152
+									]
+								],
+								"settings":
+								{
+									"auto_name": "// Item Maintenance > Go to page no 20 > Go to ite",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 86.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/synerzip/Documents/Python_sessions/selenium_python_practice.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 545,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "from selenium import webdriver",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 10.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1181,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										110,
+										110
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Session 5 Assignment",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1463,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1162,
+										1162
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Python assignments",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 404.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 45.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 275.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

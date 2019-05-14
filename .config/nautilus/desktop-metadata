@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=false
+nautilus-icon-view-layout-timestamp=1557809486
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1557809486
+nautilus-icon-position=56,26
+icon-scale=1
+
+[softwares on dellstorage.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1552466463
+
+[userrepo on dellstorage.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1552548417
+
+[16 GB Volume.volume]
+nautilus-icon-position=56,146
+icon-scale=1
+nautilus-icon-position-timestamp=1557741193
